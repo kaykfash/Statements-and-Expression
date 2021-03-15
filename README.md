@@ -40,3 +40,37 @@ In the above example, we have defined a function named displayMessage that displ
 
 
 
+
+
+Difference Between Function Argument and Parameter with Example
+
+Function parameters are the names listed in the function definition, while Function arguments are the real values passed to (and received by) the function.
+
+
+Example of a Function Parameter:
+
+function squareOfNumber (number) {
+  return number * number;
+}
+
+Example of a Function Argument:
+
+squareOfNumber(8,8)
+
+
+
+
+Explain Concatenation with Example
+
+In JavaScript we can assign strings to a variable and use concatenation to add the assigned variable to another string.
+
+In order to concatenate a string, you need the plus sign (+) between the string or the string variable you want to connect together
+
+
+Example
+let name = 'kehinde'
+ let age = 100
+ console.log ('My name is '+ name + ' I am a '+ age+ 'years old today!' )
+
+Above I created two variables name and age and assigned them to values ‘Kehinde’ and 100, then I concacated using the + sign. The result is “My name is Kehinde I am a 100 years old today!.
+
