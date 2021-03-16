@@ -74,3 +74,9 @@ let name = 'kehinde'
 
 Above I created two variables name and age and assigned them to values ‘Kehinde’ and 100, then I concacated using the + sign. The result is “My name is Kehinde I am a 100 years old today!.
 
+
+
+                    In a markdown file, explain JavaScript DOM
+
+DOM (Document Object Model) is created by the browser when a web page is loaded. In graphical form, it looks like a tree of elements/nodes which represents every single element on your page.
+JavaScript Document Object Model interaction allows for change/Remove HTML in the DOM, create new HTML elements and insert them into the DOM, change and add CSS styles to elements. 
